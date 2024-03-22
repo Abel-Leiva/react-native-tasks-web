@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Tarea de prueba",
+    "description": "Esta es una tarea nueva",
+    "status": "PENDIENTE",
+    "dateCreate": "2024-03-11T13:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Tarea de prueba segunda",
+    "description": "Esta es la segunda tarea nueva",
+    "status": "PENDIENTE",
+    "dateCreate": "2024-03-11T13:00:00"
+  }
+]
